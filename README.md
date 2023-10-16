@@ -1,7 +1,7 @@
 # TpGit
 
-ssh-keygen -t rsa -b 4096 -C chebil.moujtaba@gmail.com
-.ssh/id_rsa.pub
+1 ssh-keygen -t rsa -b 4096 -C chebil.moujtaba@gmail.com
+2 .ssh/id_rsa.pub
 cat ~/.ssh/id_rsa.pub
  ssh -T git@github.com
  git clone git@github.com:MojtabaChebil/TpGit.git
